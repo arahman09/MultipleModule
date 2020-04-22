@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Microsoft Test Automation Script" parallel="false">
+
+
+    <test name="Microsoft">
+        <classes>
+            <class name= "MicrosoftHomeDemo.MicrosoftHome"/>
+            <class name= "MicrosoftTestDemo.MicrosoftTitleTest"/>
+            <class name= "MicrosoftTestDemo.MicrosoftSearchTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
